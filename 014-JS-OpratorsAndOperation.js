@@ -40,3 +40,9 @@
     x--;                            //decreament operator
     document.getElementById("demo7").innerHTML = x;
 }
+
+{
+    let x = 5;
+    x = x ** 2;                     //Exponantiation operator
+    document.getElementById("demo8").innerHTML = x;
+}
